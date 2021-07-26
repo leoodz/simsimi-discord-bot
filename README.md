@@ -1,6 +1,6 @@
 <div style="display: inline_block">
   <img align="center" alt="Discord" src="https://github.com/leoodz/discordsimsimi/blob/master/Images/Logo%20Simsimi.png" width="150" height="150">
-  <img align="center" alt="Simsimi" src="https://github.com/leoodz/discordsimsimi/blob/master/Images/Logo%20Simsimi.png" width="150" height="150">
+  <img align="center" alt="Simsimi" src="https://github.com/leoodz/discordsimsimi/blob/master/Images/discord_logo.png" width="150" height="150">
   
 </div>
 
